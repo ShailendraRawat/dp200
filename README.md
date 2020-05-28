@@ -18,3 +18,6 @@ Candidates for this exam must be able to implement data solutions that use the f
 * Azure Synapse Analytics (formerly Azure SQL DW)
 * Azure Stream Analytics
 * Azure Data Factory
+
+## Lab Files
+DP-200 lab files can be found [here](https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution/archive/master.zip "DP-200 Lab Files").
